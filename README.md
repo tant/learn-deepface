@@ -17,3 +17,8 @@ To run the application, use the following command:
 streamlit run app.py
 ```
 
+## Usage of DeepFace
+
+This project leverages the [DeepFace library](https://github.com/serengil/deepface) for facial recognition and analysis. DeepFace provides a simple and powerful interface for tasks such as face verification, recognition, and attribute analysis.
+
+We extend our gratitude to the creators and contributors of DeepFace for their excellent work and dedication to the open-source community.

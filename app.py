@@ -212,4 +212,9 @@ elif page == "Guide":
 
 elif page == "Privacy notice":
     st.header("Privacy notice")
+
+    st.write("""
+    - I don't keep data (https://youtu.be/EN3ma6dfUNM)
+    - Source code is here https://github.com/tant/learn-deepface
+    """)
     
