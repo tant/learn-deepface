@@ -3,7 +3,7 @@ FROM python:3.13-alpine
 
 WORKDIR /app
 
-RUN apt-get update && apt-get install -y \
+RUN apt update && apt install -y \
     build-essential \
     curl \
     software-properties-common \
